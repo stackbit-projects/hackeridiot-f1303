@@ -6,8 +6,8 @@ sections:
     title: Hacker Idiot
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      idiot is always Idiot. Here you will get information that you have not
+      listened of
     actions:
       - label: Get Started
         url: /docs
